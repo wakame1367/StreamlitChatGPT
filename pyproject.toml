@@ -10,6 +10,7 @@ python = ">=3.9.10,<4.0"
 streamlit = "^1.24.1"
 pydantic = ">=1,<2"
 langchain = "^0.0.233"
+ruff = "^0.0.278"
 
 [build-system]
 build-backend = "poetry.core.masonry.api"
